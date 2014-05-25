@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repository for data science course
+Repository for data science course.
